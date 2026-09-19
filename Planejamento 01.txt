@@ -1,0 +1,134 @@
+﻿Planejamento da formação em Arduino ESP32 e impressão 3D
+Cronograma geral e conteúdos programáticos
+O planejamento reúne as datas, os horários, os integrantes responsáveis e os conteúdos previstos para cada encontro da formação.
+Cronograma geral
+Horário
+	10/09
+	17/09
+	24/09
+	01/10
+	Data a definir
+	15h00
+	Gabriel
+Introdução e fundamentos físicos
+	Ana Maria
+Conteúdo a definir
+	Gabriel
+Hardware e ESP32
+	A definir
+	A definir
+	15h45
+	Gabriel
+Introdução aos microcontroladores
+	Ana Maria
+Conteúdo a definir
+	Rennê Bispo dos Santos
+Fundamentos e prática inicial
+	A definir
+	A definir
+	16h25
+	Intervalo
+	Intervalo
+	Intervalo
+	Intervalo
+	Intervalo
+	16h35
+	Sérgio
+Apresentação do Arduino
+	Ana Maria
+Conteúdo a definir
+	Rennê Bispo dos Santos
+Funcionalidades do robô
+	A definir
+	Gabriel
+Impressora 3D
+	17h15
+	Sérgio
+Prática com Arduino
+	Ana Maria
+Conteúdo a definir
+	Rennê Bispo dos Santos
+Prática no simulador
+	A definir
+	Gabriel
+Impressora 3D
+	18h00
+	Encerramento
+	Encerramento
+	Encerramento
+	Encerramento
+	Encerramento
+	Os conteúdos ainda não informados permanecem identificados como a definir.
+________________
+
+
+Dia 1- 10 de setembro de 2026
+Dos fundamentos físicos da eletricidade ao primeiro contato prático com o Arduino
+O encontro apresenta os conceitos de energia, eletricidade e controle necessários para compreender um microcontrolador e aplicá-los na simulação de circuitos com Arduino.
+1  Introdução e fundamentos físicos
+Data: 10/09/2026
+	Horário: 15h00 às 15h45
+	Integrante: Gabriel
+	* Conceito de energia e princípio da conservação da energia
+* Conversões de energia em motores, pilhas, LEDs e buzzers
+* Corrente, Tensão e resistência
+* Manipulação e controle da energia com interruptores, resistores, transistores e potenciômetros
+* Medição do ambiente com potenciômetros, sensores LDR e outros módulos
+* Circuitos complexos, microcontroladores e computadores como formas sofisticadas de controle
+2  Introdução aos microcontroladores
+Data: 10/09/2026
+	Horário: 15h45 às 16h25
+	Integrante: Gabriel
+	* Saída digital com LEDs e resistores
+* Entrada digital com interruptores e botões
+* PWM para controle do brilho de LEDs e geração de sinais para buzzers
+* Entrada analógica com potenciômetros e sensores LDR
+* Módulos e atuadores: ponte H, sensor ultrassônico, sensor de presença e servomotor
+* Identificação dos componentes, de suas funções, de seus terminais e das formas de conexão
+3  Apresentação do Arduino
+Data: 10/09/2026
+	Horário: 16h35 às 17h15
+	Integrante: Sérgio
+	* Funcionamento do Arduino
+* Portas, conectores, entradas e saídas da placa
+* Estrutura básica de um sketch e apresentação da Arduino IDE
+* Montagem correta das conexões e envio de instruções por código
+4  Prática no Tinkercad
+Data: 10/09/2026
+	Horário: 17h15 às 18h00
+	Integrante: Sérgio
+	Montagem e simulação de circuitos com os seguintes componentes:
+* LEDs
+* Sensor ultrassônico
+* Buzzer
+* Fotoresistor LDR
+* Microservomotor
+* Display LCD
+________________
+
+
+Dia 3 - 24 de setembro de 2026
+Fundamentos da robótica e prática de programação em blocos
+O encontro relaciona o funcionamento de um robô à programação em blocos e culmina na criação, troca e apresentação de rotinas no simulador.
+1  Fundamentos e prática inicial
+Data: 24/09/2026
+	Horário: 15h45 às 16h25
+	Integrante: Rennê Bispo dos Santos
+	* Conceitos essenciais sobre o funcionamento de um robô
+* Conexão entre o mundo real e o mundo virtual
+* Base para compreender a programação em blocos
+2  Funcionalidades do robô
+Data: 24/09/2026
+	Horário: 16h35 às 17h15
+	Integrante: Rennê Bispo dos Santos
+	* Explicação teórica das funcionalidades do robô
+* Aplicação das funcionalidades na programação
+* Criação de rotinas básicas de funcionamento
+3  Prática no simulador
+Data: 24/09/2026
+	Horário: 17h15 às 18h00
+	Integrante: Rennê Bispo dos Santos
+	* Programação em blocos no simulador
+* Criação de rotinas básicas por sorteio
+* Troca de códigos entre os integrantes do PET
+* Apresentação das diferentes soluções encontradas
