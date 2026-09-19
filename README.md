@@ -170,10 +170,30 @@ Cada **tópico principal** abre a visão geral do grupo, mostrando a relação e
 
 ### 6. [Revisão geral e aprofundamento](docs/06-revisao.md)
 
-- Respostas comentadas das perguntas do slide
-- Exercícios adicionais
-- Roteiro de aprofundamento
-- Método para aprender novos componentes
+- [Respostas comentadas das perguntas do slide](docs/06a-respostas-slide.md)
+  - [Conversão de energia](docs/06a-respostas-slide.md#conversão-de-energia)
+  - [Conexão segura](docs/06a-respostas-slide.md#conexão-segura)
+  - [Sensores e módulos](docs/06a-respostas-slide.md#sensores-e-módulos)
+  - [Microcontrolador e GPIO](docs/06a-respostas-slide.md#microcontrolador-e-gpio)
+  - [Entrada, saída e PWM](docs/06a-respostas-slide.md#entrada-saída-e-pwm)
+- [Exercícios, respostas e diagnóstico](docs/06b-exercicios-diagnostico.md)
+  - [Exercícios de fundamentos](docs/06b-exercicios-diagnostico.md#exercícios-de-fundamentos)
+  - [Exercícios de conexão](docs/06b-exercicios-diagnostico.md#exercícios-de-conexão)
+  - [Gabarito comentado](docs/06b-exercicios-diagnostico.md#gabarito-comentado)
+  - [Método de diagnóstico](docs/06b-exercicios-diagnostico.md#método-de-diagnóstico)
+- [Roteiro de aprofundamento](docs/06c-aprofundamento.md)
+  - [Medição elétrica](docs/06c-aprofundamento.md#medição-elétrica)
+  - [Eletrônica de potência](docs/06c-aprofundamento.md#eletrônica-de-potência)
+  - [Sinais e comunicação](docs/06c-aprofundamento.md#sinais-e-comunicação)
+  - [Programação](docs/06c-aprofundamento.md#programação)
+  - [Como aprender um componente novo](docs/06c-aprofundamento.md#como-aprender-um-componente-novo)
+- [PictoBlox, Tinkercad e documentação](docs/06d-pictoblox-tinkercad.md)
+  - [Documentação do PictoBlox](docs/06d-pictoblox-tinkercad.md#documentação-do-pictoblox)
+  - [Stage Mode e Upload Mode](docs/06d-pictoblox-tinkercad.md#stage-mode-e-upload-mode)
+  - [Arduino no PictoBlox](docs/06d-pictoblox-tinkercad.md#arduino-no-pictoblox)
+  - [Tinkercad Circuits](docs/06d-pictoblox-tinkercad.md#tinkercad-circuits)
+  - [Blocos, texto e simulação](docs/06d-pictoblox-tinkercad.md#blocos-texto-e-simulação)
+  - [Limites do simulador](docs/06d-pictoblox-tinkercad.md#limites-do-simulador)
 
 ## Sumário de projetos
 
